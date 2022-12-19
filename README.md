@@ -1,3 +1,3 @@
 # mpg_wildlife_tracker
 
-Scripts for access Wildlife Tracking Data
+Scripts for accessing Wildlife Tracking Data
